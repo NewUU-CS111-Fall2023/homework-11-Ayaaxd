@@ -1,9 +1,8 @@
 /*
- * Author:
- * Date:
+ * Author: Sitora Aslonova 
+ * Date: 23/01/2024
  * Name:
  */
-
-class Problem7 {
-public:
-};
+int eulerFunction(int a, int b) {
+    return (a - 1) * (b - 1);
+}
